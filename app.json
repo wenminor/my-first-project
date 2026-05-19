@@ -1,0 +1,11 @@
+{
+  "id": "com.yourname.evensudoku",
+  "name": "Even 数独",
+  "version": "1.0.0",
+  "description": "专为 Even G2 智能眼镜设计的数独游戏",
+  "author": "Your Name",
+  "network": {
+    "allowedDomains": []
+  },
+  "permissions": []
+}

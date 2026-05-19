@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@evenrealities/even_hub_sdk": "^latest"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "vite": "^5.2.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  }
+}
