@@ -1,7 +1,10 @@
 {
-  "dependencies": {
+  "name": "my-first-project", 
+  "version": "1.0.0", 
+  "description": "基于TypeScript的游戏类前端项目", 
     "@evenrealities/even_hub_sdk": "^latest"
   },
+  
   "devDependencies": {
     "typescript": "^5.2.2",
     "vite": "^5.2.0"
@@ -10,5 +13,12 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview"
-  }
-}
+  },
+  "private": false, 
+  "license": "MIT", 
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wenminor/my-first-project.git"
+  },
+
+  "author": "wenminor <zhwncai@gmail.com>" 
